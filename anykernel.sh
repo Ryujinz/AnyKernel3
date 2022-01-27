@@ -5,13 +5,12 @@
 # begin properties
 properties() { '
 kernel.string=Chizuru by RGP
-do.devicecheck=0
+do.devicecheck=1
 do.modules=0
-do.systemless=1
 do.cleanup=1
-do.cleanuponabort=0
-device.name1=universal
-device.name2=
+do.cleanuponabort=1
+device.name1=RMX1911
+device.name2=RMX2030
 supported.versions=10-12
 '; } # end properties
 
