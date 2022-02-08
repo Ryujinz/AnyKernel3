@@ -9,9 +9,9 @@ do.devicecheck=1
 do.modules=0
 do.cleanup=1
 do.cleanuponabort=1
-device.name1=RMX1911
-device.name2=RMX2030
-supported.versions=10-12
+device.name1=vayu
+device.name2=bhima
+supported.versions=11-12
 '; } # end properties
 
 # shell variables
