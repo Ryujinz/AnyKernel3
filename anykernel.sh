@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Arthic by RGP
+kernel.string=Alchemist by RGP
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
